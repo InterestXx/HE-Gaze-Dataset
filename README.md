@@ -8,7 +8,8 @@ Our dataset can be obtained at "https://stuhebuteducn-my.sharepoint.com/:u:/g/pe
 
 If you want to use our data, please cite as the following works:
 
-@article{
+@article{Chen2022realtimeGT,
+
 author = {Chen, Lingling and Li, Yingxi and Bai, Xiaowei and Wang, Xiaodong and Hu, Yongqiang, and Song, Mingwu and Xie, Liang and Yin, Erwei and Yan, Ye},
 
 booktitle = {2022  IEEE International Symposium on Mixed Augmented Reality (ISMAR)},
