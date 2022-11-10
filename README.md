@@ -6,7 +6,7 @@ Dataset for ISMAR2022 paper "Real-time Gaze Tracking with Head-eye Coordination 
 
 Our dataset can be obtained at "https://stuhebuteducn-my.sharepoint.com/:u:/g/personal/202032803048_stu_hebut_edu_cn/EQjGJks8TKxIm_jJaNfqTEMBPIh0VOSATAgvYfhpylMiYA?e=ZFYVdu", and the password is Ismar2022.
 
-If you want to use our darta, please cite as the following works
+If you want to use our data, please cite as the following works:
 
 @article{
 author = {Chen, Lingling and Li, Yingxi and Bai, Xiaowei and Wang, Xiaodong and Hu, Yongqiang, and Song, Mingwu and Xie, Liang and Yin, Erwei and Yan, Ye},
