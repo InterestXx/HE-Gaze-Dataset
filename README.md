@@ -5,8 +5,9 @@ The first Multi-modality dataset for Near-eye Gaze Tracking.
 
 
 # Study Disclosure Statement
+This work involved human subjects or animals in its research. The author(s) confirm(s) that all human subject research procedures and protocols are exempt from review board approval.
 
-Our study only collected eye images, head movement information, and gaze-related information from each subject and did not involve any biomedical experimentation. The data collection process ensures that each subject's eyes are safe and that any participant's eye exposure to infrared light is controlled to be well below the maximum permissible exposure levels specified in IEC 62471:2006 and the Chinese national standard for the safe use of lasers (GB 7247.1-2012).
+This study only collected eye images, head movement information, and gaze-related information from each subject and did not involve any biomedical experimentation. The data collection process ensures that each subject's eyes are safe and that any participant's eye exposure to infrared light is controlled to be well below the maximum permissible exposure levels specified in IEC 62471:2006 and the Chinese national standard for the safe use of lasers (GB 7247.1-2012).
 
 HE-Gaze data was collected from fifteen voluntary participants (ages between 18 and 26）. These participants provided written informed consent to release their eye images before participating in the study. There was no selection bias in our choice of participants for the HE-Gaze study, except that we required subjects to have corrected visual acuity above legal blindness. Participants were compensated for their participation and had the option to withdraw from the study at any time. The dataset was anonymized to remove any personally identifiable information, ensuring the privacy and confidentiality of all participants.
 
